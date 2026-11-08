@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/PrefectHQ/prefect-recipes/commit/ebc974b22430f8fceda609dd0d17663ab2008c01",
       "git:hexsha": "ebc974b22430f8fceda609dd0d17663ab2008c01",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/PrefectHQ/prefect-recipes/commit/0198fe0eddfdfab6e55e9acb0a5354b9d447170f",
