@@ -1,0 +1,11 @@
+{
+  "org": "PrefectHQ",
+  "repo": "prefect-recipes",
+  "versions": [
+    {
+      "commit": "ebc974b22430f8fceda609dd0d17663ab2008c01",
+      "tag": "",
+      "parsed_at": "2026-11-08T06:18:26.557821+00:00"
+    }
+  ]
+}
